@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // func main() { // sementara di disable bentrok main
-func main() {
+func main10() {
 	// compare operation adalah operasi perbandingan terhadap dua buah data
 	// hasilnya dalam bentuk false / true (boolean)
 	// pada dasarnya sama dengan bahasa pemrograman lain
