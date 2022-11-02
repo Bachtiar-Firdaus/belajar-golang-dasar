@@ -6,7 +6,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main45() {
 	// package initialization
 	/*
 		saat kita membuat package kita bisa membuat sebuah function yang akan diakses ketika package kita diakses
